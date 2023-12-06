@@ -1,2 +1,5 @@
-# ignore ALL .log files
+# ignore ALL .exe files
 *.exe
+
+#Ignore VScode settings
+.vscode/
